@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<auto>
+    <nimi>BMW</nimi>
+    <seria>
+        <auto>
+            <nimi>BMW 3</nimi>
+            <seria>
+                <auto>
+                    <nimi>BMW 330</nimi>
+                    <keretüüp>universaal</keretüüp>
+                    <aasta>05/2006</aasta>
+                    <mootor>3.0 R6 (170 kW)</mootor>
+                    <kütus>diisel</kütus>
+                    <käigukast>automaat</käigukast>
+                </auto>
+            </seria>
+            <seria>
+                <auto>
+                    <nimi>BMW 316</nimi>
+                    <keretüüp>	kupee</keretüüp>
+                    <aasta>1997</aasta>
+                    <mootor>1.6 (75 kW)</mootor>
+                    <kütus>bensiin + gaas</kütus>
+                    <käigukast>manuaal</käigukast>
+                </auto>
+            </seria>
+        </auto>
+        <auto>
+            <nimi>BMW 5</nimi>
+
+            <seria>
+                <auto>
+                    <nimi>BMW 525</nimi>
+                    <keretüüp>sedaan</keretüüp>
+                    <aasta>04/1996</aasta>
+                    <mootor>2.5 (105 kW)</mootor>
+                    <kütus>	diisel</kütus>
+                    <käigukast>manuaal</käigukast>
+                </auto>
+            </seria>
+        </auto>
+    </seria>
+    <nimi>Volvo</nimi>
+    <seria>
+        <auto>
+            <nimi>Volvo V</nimi>
+        </auto>
+            <seria>
+                <auto>
+                    <nimi>Volvo V40</nimi>
+                    <keretüüp>universaal</keretüüp>
+                    <aasta>03/2002</aasta>
+                    <mootor>1.9 (120 kW)</mootor>
+                    <kütus>bensiin</kütus>
+                    <käigukast>manuaal</käigukast>
+                </auto>
+            </seria>
+            <seria>
+                <auto>
+                    <nimi>Volvo V70</nimi>
+                    <keretüüp>universaal</keretüüp>
+                    <aasta>02/2007</aasta>
+                    <mootor>2.4 (120 kW)</mootor>
+                    <kütus>diisel</kütus>
+                    <käigukast>manuaal</käigukast>
+                </auto>
+            </seria>
+        <auto>
+            <nimi>Volvo S</nimi>
+        </auto>
+            <seria>
+                <auto>
+                    <nimi>Volvo S60</nimi>
+                    <keretüüp>sedaan</keretüüp>
+                    <aasta>07/2003</aasta>
+                    <mootor>2.4 (96 kW)</mootor>
+                    <kütus>diisel</kütus>
+                    <käigukast>manuaal</käigukast>
+                </auto>
+            </seria>
+            <seria>
+                <auto>
+                    <nimi>Volvo S90</nimi>
+                    <keretüüp>sedaan</keretüüp>
+                    <aasta>02/2017</aasta>
+                    <mootor>2.0 T6 (235 kW)</mootor>
+                    <kütus>bensiin</kütus>
+                    <käigukast>automaat</käigukast>
+                </auto>
+            </seria>
+    </seria>
+    <nimi>Mercedes-Benz</nimi>
+    <seria>
+        <auto>
+            <nimi>Mercedes-Benz C-klass</nimi>
+        </auto>
+            <seria>
+                <auto>
+                    <nimi>Mercedes-Benz C 180</nimi>
+                    <keretüüp>sedaan</keretüüp>
+                    <aasta>08/2014</aasta>
+                    <mootor>1.6 R4 (115 kW)</mootor>
+                    <kütus>bensiin</kütus>
+                    <käigukast>automaat</käigukast>
+                </auto>
+            </seria>
+        <auto>
+            <nimi>Mercedes-Benz E-klass</nimi>
+        </auto>
+            <seria>
+                <auto>
+                    <nimi>Mercedes-Benz E 220</nimi>
+                    <keretüüp>sedaan</keretüüp>
+                    <aasta>05/2017</aasta>
+                    <mootor>2.2 (143 kW)</mootor>
+                    <kütus>diisel</kütus>
+                    <käigukast>automaat</käigukast>
+                </auto>
+            </seria>
+        <auto>
+            <nimi>Mercedes-Benz SL-klass</nimi>
+        </auto>
+            <seria>
+                <auto>
+                    <nimi>Mercedes-Benz SL 300</nimi>
+                    <keretüüp>kabriolett</keretüüp>
+                    <aasta>03/1991</aasta>
+                    <mootor>3.0 (170 kW)</mootor>
+                    <kütus>bensiin</kütus>
+                    <käigukast>automaat</käigukast>
+                </auto>
+            </seria>
+    </seria>
+</auto>
